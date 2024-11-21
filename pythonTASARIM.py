@@ -1,6 +1,6 @@
 
 ders_adi = "Python"
-hoca_adi = "Dr. Öğretim Üyesi Erhan Cebeci"
+hoca_adi = "Dr. Öğretim Üyesi Ömer Sevinç"
 ders_adi = "veri tabanı"
 hoca_adi = "Ahmet doğukan Sarıyalçınkaya"
 ders_adi = "İngilizce"
